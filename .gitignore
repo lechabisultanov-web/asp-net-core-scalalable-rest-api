@@ -24,6 +24,7 @@ Thumbs.db
 
 appsettings.Development.json
 appsettings.Local.json
+appsettings.Test.json
 *.pfx
 *.key
 
