@@ -1,0 +1,53 @@
+# -----------------------
+# .NET / C#
+# -----------------------
+
+bin/
+obj/
+
+.vs/
+.vscode/
+
+*.user
+*.suo
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# -----------------------
+# Secrets
+# -----------------------
+
+appsettings.Development.json
+appsettings.Local.json
+*.pfx
+*.key
+
+# -----------------------
+# Docker / Environment
+# -----------------------
+
+.env
+.env.local
+.env.development
+
+# -----------------------
+# Test Results
+# -----------------------
+
+TestResults/
+coverage/
+*.trx
+
+# -----------------------
+# Readme.md
+# -----------------------
+README.md
+# -----------------------
+# Sidenotes.md
+# -----------------------
+Sidenotes.md
